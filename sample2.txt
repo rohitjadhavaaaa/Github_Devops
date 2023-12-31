@@ -1,0 +1,8 @@
+Aws Devops 
+AWS : Autoscaling Load Balancinng VPC VPN Ec2 Creation Region Availability zone Migration Services snowball
+Devops : Linux OS GITHUB GIT Docker Images, Docker File . Ansible , Chef, Puppet
+Linux : wc command , ls command , ll command , cat command , touch command , clear command .
+Networking : DNS, DHCP, Switch & Router Configuration .
+Programming Skills : Core Java , Basic Python . 
+Tools: Maven , Jenkins , VMware 
+Virtualization : 
